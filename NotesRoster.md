@@ -1,8 +1,8 @@
 # LPC-LLP Meetings Note Takers
 
 - 10/6: Christina Wang
-- 10/13: Jiajing Mao
-- t.b.d: Anthony Aportela
+- 10/13: Anthony Aportela
+- 10/20: Jiajing Mao
 - t.b.d: Jörg Schindler
 - t.b.d: Kailash Raman
 - t.b.d: Karem Penalo
