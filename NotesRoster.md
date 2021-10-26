@@ -2,8 +2,8 @@
 
 - 10/6: Christina Wang
 - 10/13: Anthony Aportela
-- 10/20: Jiajing Mao
-- t.b.d: Jörg Schindler
+- 10/20: Jörg Schindler
+- 10/27: Jiajing Mao
 - t.b.d: Kailash Raman
 - t.b.d: Karem Penalo
 - t.b.d: Karla Pena
