@@ -9,8 +9,8 @@
 - 11/17: Jiajing Mao
 - 11/24: Karla Pena
 - 12/01: Canceled
-- 12/08: Suho Kim
-- t.b.d: Martin Kwok
+- 12/08: Martin Kwok
+- 12/15: Suho Kim
 - t.b.d: Matthew Citron
 - t.b.d: Daniel Diaz
 - t.b.d: Andrew Hart
