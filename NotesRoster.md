@@ -11,7 +11,7 @@
 - 12/01: Canceled
 - 12/08: Martin Kwok
 - 12/15: Suho Kim
-- t.b.d: Matthew Citron
+- 2/02: Matthew Citron
 - t.b.d: Daniel Diaz
 - t.b.d: Andrew Hart
 - t.b.d: James Sheplock
