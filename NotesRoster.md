@@ -14,4 +14,4 @@
 - 02/02: Daniel Diaz
 - 02/09: Matthew Citron
 - 03/09: Andrew Hart
-- t.b.d: James Sheplock
+- 03/16: James Sheplock
